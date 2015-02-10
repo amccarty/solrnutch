@@ -1,3 +1,6 @@
 logs/*
-urls
-crawls
+urls/*
+crawls/*
+!urls/README
+!crawls/README
+example/logs/
